@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 Grafana
 newrelic
 Prometheus
->>>>>>> twitter/master
+appDynamics
+Dynatrace
